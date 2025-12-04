@@ -9,3 +9,5 @@
 - add bullets
 - add **bold texts**
 - add ***italics on texts*** 
+
+![new image](img\sample-img.png)
