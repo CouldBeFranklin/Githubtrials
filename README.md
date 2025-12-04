@@ -10,4 +10,7 @@
 - add **bold texts**
 - add ***italics on texts*** 
 
-![new image](img\sample-img.png)
+![new image](img/sample-img.png)
+
+
+![another img](img/Picture1.jpg)
