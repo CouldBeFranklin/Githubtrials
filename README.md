@@ -13,4 +13,6 @@
 ![new image](img/sample-img.png)
 
 
-![another img](img/Picture1.jpg)
+![another img](img/Picture2.jpg)
+
+[new link](/new.txt)
