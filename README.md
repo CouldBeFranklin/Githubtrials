@@ -1,7 +1,7 @@
 ## Githubtrials
 
 
-# Happy to be learning how to use githup properly
+# Happy to be learning how to use github properly
 
 - Headers
 - add images
